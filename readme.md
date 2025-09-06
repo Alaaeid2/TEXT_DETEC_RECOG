@@ -8,7 +8,3 @@ Constructed an end-to-end OCR pipeline using the EAST model for text detection a
 - Real-time processing via OpenCV
 - Edge-device deployment ready
 
-## Installation 
-**bash**
-pip install -r requirements.txt
-
