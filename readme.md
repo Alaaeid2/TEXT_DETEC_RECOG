@@ -12,6 +12,3 @@ Constructed an end-to-end OCR pipeline using the EAST model for text detection a
 **bash**
 pip install -r requirements.txt
 
-## Usage
-python text_detect.py --image path/to/image.jpg --east weights/frozen_east_text_detection.pb
-
